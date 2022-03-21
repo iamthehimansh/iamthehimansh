@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamthehimansh
-- 👀 I’m interested in Science
+- 👀 I’m interested in Science & Technology
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open Projects
 - 📫 How to reach me iamthehimansh@gmail.com
