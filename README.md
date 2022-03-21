@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @iamthehimansh
-- 👀 I’m interested in Web/App Dev
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on your Project
+- 👀 I’m interested in Science
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on open Projects
 - 📫 How to reach me iamthehimansh@gmail.com
+- 🚀 CEO at CodeProps based in Hydrabad
 
 <!---
 iamthehimansh/iamthehimansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
