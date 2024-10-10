@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamthehimansh
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Maths For AI
+- 🌱 I’m currently doing projects with llm
 - 💞️ I’m looking to collaborate on open Projects
 - 📫 How to reach me iamthehimansh@gmail.com
 
