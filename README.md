@@ -77,6 +77,16 @@ I build **human-language technology** — training and fine-tuning **LLMs / SLMs
 
 ---
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamthehimansh&bg_color=00000000&color=8A8577&line=C4623E&point=C4623E&area=true&area_color=C4623E&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="98%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamthehimansh&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+
+</div>
+
+---
+
 ### 🏆 Honors
 
 🥇 **Winner** — HIVE Hackathon, IIT Delhi (2024) &nbsp;•&nbsp; 🥇 **Winner** — FinAThon, IIT Delhi (2023) &nbsp;•&nbsp; 🌍 **Top 10 (Intl)** — IIT Bombay TechFest (2023) &nbsp;•&nbsp; 🧠 **1st** — IILM Competitive Programming (2023) &nbsp;•&nbsp; ☁️ **Google Cloud Generative AI** (6 certs)
