@@ -50,7 +50,7 @@ I build **human-language technology** — training and fine-tuning **LLMs / SLMs
 | :-- | :-- |
 | 🖼️ **[LlamaVision](https://github.com/iamthehimansh/llama-vision)** | 6.3M-param image projector aligning a **ViT** encoder to a **Llama-3** text embedding space — studies cross-modal alignment. |
 | 🧠 **[F75](https://github.com/iamthehimansh/F75)** | A **107K-param transformer LM** trained end-to-end on a single GPU — tokenizer, training loop & inference from scratch. |
-| 🤖 **[Cana](https://cana.build)** | Agentic IDE + secure multi-agent runtime (OpenAI / Anthropic / Gemini / Kimi) on hardened AWS K8s — **98.2%** task pass across **100+** users. |
+| 🤖 **[Cana](https://cana.build)** · @ Colate | Agentic IDE + secure multi-agent runtime (OpenAI / Anthropic / Gemini / Kimi) on hardened AWS K8s — **98.2%** task pass across **100+** users; a compiler-style multi-model codegen proxy has served **900M+** requests. |
 | 📄 **[BlackTable](https://github.com/iamthehimansh/Blacktable)** | Production **RAG** document-analysis API across 4 formats (PDF / MD / Word / text via Docling). |
 | ⚙️ **[H++](https://github.com/iamthehimansh/hpp)** | A statically-typed language built on a **single primitive: bit** — all types are zero-cost bit-level abstractions. |
 | 🧮 **[STRIVER-JUDGE](https://github.com/iamthehimansh/STRIVER-JUDGE)** | A self-built local **DSA judge** — 200+ Striver A2Z problems, auto-validated against test cases. |
