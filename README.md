@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iamthehimansh/himansh.in/main/public/logo.svg" width="72" alt="Himansh Raj" />
+<img src="https://raw.githubusercontent.com/iamthehimansh/iamthehimansh/main/logo.png" width="66" alt="Himansh Raj" />
 
 # Himansh Raj
 
@@ -74,15 +74,6 @@ I build **human-language technology** — training and fine-tuning **LLMs / SLMs
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamthehimansh&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4623E&icon_color=C4623E&text_color=808080" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthehimansh&layout=compact&hide_border=true&bg_color=00000000&title_color=C4623E&text_color=808080&langs_count=8" alt="Top languages" />
-
-</div>
 
 ---
 
