@@ -1,48 +1,97 @@
-# 👋 Hi there, I'm Himansh Raj
+<div align="center">
 
-🎓 **B.Tech CSE (AI & ML)** @ IILM University | 👨‍💻 AI Engineer | 🧠 Full-Stack & LLM Developer | 🛠️ Building scalable software and smart systems.
+<img src="https://raw.githubusercontent.com/iamthehimansh/himansh.in/main/public/logo.svg" width="72" alt="Himansh Raj" />
 
-## 🚀 About Me
-I'm a passionate software engineer and AI enthusiast with hands-on experience in:
-- Full-Stack Development (React, Next.js, FastAPI, Django)
-- AI/ML & LLMs (Hugging Face, LangChain, RAG)
-- DevOps (Docker, Redis, CI/CD, Google Cloud)
+# Himansh Raj
 
+<a href="https://himansh.in">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=C4623E&center=true&vCenter=true&width=560&lines=AI+%2F+ML+Researcher+%26+Engineer;Neural+Machine+Translation+%C2%B7+Low-Resource+NLP;Vision-Language+Models+%C2%B7+LLM+Training;Agents+%C2%B7+Evaluation+%C2%B7+Failure+Modes" alt="AI / ML Researcher & Engineer" />
+</a>
 
+<p>
+  <a href="https://himansh.in"><img src="https://img.shields.io/badge/himansh.in-C4623E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/iamthehimansh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/iamthehimansh"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="mailto:iamthehimansh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/iamthehimansh_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-## 🔧 Tech Stack
-**Languages:** Python, C++, JavaScript, TypeScript, Dart, C#, Solidity  
-**Frameworks/Libraries:** Next.js, React, FastAPI, Flask, Node.js, Django, Three.js, TRL, Unsloth  
-**Databases:** PostgreSQL, MongoDB, Firestore, VectorDBs  
-**Cloud/Tools:** Google Cloud, Azure, Docker, Git, Redis, Kubernetes, VS Code
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthehimansh&layout=compact&theme=tokyonight)
-
-## 🧩 Featured Projects
-### 🔹 [BlackTable](https://github.com/iamthehimansh/Blacktable)
-AI Recruitment Toolkit for resume parsing, candidate scoring, and question generation.
-
-### 🔹 [3DWebAi](https://huggingface.co/iamthehimansh/3dAiWeb)
-LLM fine-tuned on React Three Fiber prompts for generating 3D code scenes.
-
-### 🔹 [StudyGit](https://github.com/iamthehimansh/studygit)
-A VS Code extension that lets you visualize git commits with timeline playback.
-
-### 🔹 [MiN – Decentralized Cab Service](https://github.com/iamthehimansh/SIH2024)
-Built with Solidity, Next.js, and Web3.js. Supports bidding, real-time matching, escrow payments.
-
-### 🔹 [Doremon – EEG Smart Home](https://github.com/iamthehimansh/Doremon)
-Control appliances using brainwaves. Built with open EEG hardware and Python signal processing.
-
-## 🏆 Achievements
-- 🥉 3rd Place – Dexterix Hackathon, Galgotias University (2024)
-- 🏅 Top 10 – IIT Bombay TechFest International Hackathon (2023)
-- 🎖️ 1st – University Coding Challenge, IILM University (2023)
-
-## 📫 Contact Me
-📧 Email: [iamthehimansh@gmail.com](mailto:iamthehimansh@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/iamthehimansh](https://linkedin.com/in/iamthehimansh)  
-🌐 Website: [iamthehimansh.github.io](https://iamthehimansh.github.io)
+</div>
 
 ---
-*Passionate about building smarter tech, better products, and impactful solutions. Let’s collaborate!*
+
+### 👋 About
+
+I build **human-language technology** — training and fine-tuning **LLMs / SLMs**, **neural machine translation**, and **vision-language models** — and I study **model behavior, robustness, and failure modes** in learning-based systems.
+
+- 🔬 **Research Intern** @ IIT Delhi — **MISN Lab** (agentic systems for recommendations)
+- 🤖 **AI Engineer** @ **Colate** — agentic IDE, multi-model codegen proxy, vector search
+- 🎓 **B.Tech CSE (AI & ML)** @ IILM University
+- 🌐 Everything lives at **[himansh.in](https://himansh.in)** — research, projects, blog, and a little 3D game
+
+---
+
+### 🔬 Research
+
+**Low-Resource Neural Machine Translation — English ↔ Prakrit, Prakrit → Sanskrit**
+<sub>Manuscript in preparation · joint work with a PhD researcher at IIT Delhi</sub>
+
+> Trained small English↔Prakrit models, then **self-generated 2M+ pairs** and filtered them to a **1,513,093-pair** corpus via a word-level Jaccard-stability check — reaching **BLEU 47.08 (sacreBLEU) / METEOR 0.558** (Prakrit→English) at **498 sentences/sec** with CTranslate2. Also built a **Prakrit→Sanskrit** lemmatizer (51% char-similarity from just 1,696 training pairs).
+
+&nbsp;&nbsp;↳ [`prakrit_eng_translator`](https://github.com/iamthehimansh/prakrit_eng_translator) &nbsp;·&nbsp; [prakrit dataset](https://github.com/iamthehimansh/prakrit-dataaset-prakrit.info)
+
+**Infinite-Context LLM** — an active (in-context) / passive (retrievable) memory architecture for near-infinite recall without quadratic attention cost. *(ongoing)*
+
+---
+
+### 🧩 Featured Projects
+
+| Project | What it is |
+| :-- | :-- |
+| 🖼️ **[LlamaVision](https://github.com/iamthehimansh/llama-vision)** | 6.3M-param image projector aligning a **ViT** encoder to a **Llama-3** text embedding space — studies cross-modal alignment. |
+| 🧠 **[F75](https://github.com/iamthehimansh/F75)** | A **107K-param transformer LM** trained end-to-end on a single GPU — tokenizer, training loop & inference from scratch. |
+| 🤖 **[Cana](https://cana.build)** | Agentic IDE + secure multi-agent runtime (OpenAI / Anthropic / Gemini / Kimi) on hardened AWS K8s — **98.2%** task pass across **100+** users. |
+| 📄 **[BlackTable](https://github.com/iamthehimansh/Blacktable)** | Production **RAG** document-analysis API across 4 formats (PDF / MD / Word / text via Docling). |
+| ⚙️ **[H++](https://github.com/iamthehimansh/hpp)** | A statically-typed language built on a **single primitive: bit** — all types are zero-cost bit-level abstractions. |
+| 🧮 **[STRIVER-JUDGE](https://github.com/iamthehimansh/STRIVER-JUDGE)** | A self-built local **DSA judge** — 200+ Striver A2Z problems, auto-validated against test cases. |
+| 🕹️ **[8085 Simulator](https://github.com/iamthehimansh/8085-sumulation)** | Full **Intel 8085** emulator — 64KB memory, instruction-level breakpoints, step-through. |
+| 🛡️ **[NetGuard](https://github.com/iamthehimansh/NetGuard)** | No-root **Android firewall** — per-app + wildcard DNS blocking via a local VPN tunnel. |
+| 🧠 **[Doremon](https://github.com/iamthehimansh/Doremon)** | **EEG-controlled** smart home — 67% intent accuracy on 2h of hackathon data. |
+
+---
+
+### 🛠️ Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamthehimansh&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4623E&icon_color=C4623E&text_color=808080" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthehimansh&layout=compact&hide_border=true&bg_color=00000000&title_color=C4623E&text_color=808080&langs_count=8" alt="Top languages" />
+
+</div>
+
+---
+
+### 🏆 Honors
+
+🥇 **Winner** — HIVE Hackathon, IIT Delhi (2024) &nbsp;•&nbsp; 🥇 **Winner** — FinAThon, IIT Delhi (2023) &nbsp;•&nbsp; 🌍 **Top 10 (Intl)** — IIT Bombay TechFest (2023) &nbsp;•&nbsp; 🧠 **1st** — IILM Competitive Programming (2023) &nbsp;•&nbsp; ☁️ **Google Cloud Generative AI** (6 certs)
+
+---
+
+<div align="center">
+<sub>Building language technology — from research prototype to production. &nbsp;·&nbsp; <a href="https://himansh.in">himansh.in</a></sub>
+</div>
