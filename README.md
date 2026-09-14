@@ -62,9 +62,13 @@ GPU workstation fleet control over SSH with live telemetry.
 
 ## Now
 
-**AI Engineer @ Colate** — built the production model gateway, multi-agent
-orchestration and persistent AWS/Kubernetes runtimes. Cut inference latency
-**35%**.
+**AI Engineer @ Colate** — built the multi-provider LLM gateway behind Cana: one
+shared request/event representation translating **OpenAI, Anthropic and Gemini**
+formats, with streaming, tool calls and multimodal inputs. Added prompt caching
+and token accounting — **6.05B cached input tokens, 53% input-token reuse,
+35% lower inference latency**. Also built its multi-agent orchestration (worker,
+reviewer and lead roles, dependency-aware delegation, inter-agent messaging) and
+persistent AWS/Kubernetes runtimes.
 
 **Research Intern @ MISN Lab, IIT Delhi** — agentic systems for recommendation
 under Dr. Sandeep Kumar: retrieval + planning + tool use, and the evaluation
