@@ -62,7 +62,7 @@ GPU workstation fleet control over SSH with live telemetry.
 
 ## Now
 
-**AI Engineer @ Colate.** Built the multi-provider LLM gateway behind Cana: one
+**Applied AI Engineer @ Colate.** Built the multi-provider LLM gateway behind Cana: one
 shared request/event representation translating **OpenAI, Anthropic and Gemini**
 formats, with streaming, tool calls and multimodal inputs. Added prompt caching
 and token accounting: **6.05B cached input tokens, 53% input-token reuse,
