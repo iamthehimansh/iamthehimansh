@@ -1,7 +1,7 @@
 <h1 align="center">Himansh Raj</h1>
 
 <p align="center">
-  <b>AI infrastructure engineer.</b> I build the layer underneath the models:<br/>
+  <b>Applied AI engineer.</b> I build the layer underneath the models:<br/>
   gateways, agent runtimes, and inference that runs on your own machine.
 </p>
 
